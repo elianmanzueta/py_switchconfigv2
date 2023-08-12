@@ -12,4 +12,4 @@ python SimpleSwitchConfig.py -ip _ip address_ -user _user_ -interface _interface
 
 This will configure an access port on the given interface and set it to VLAN 10.
 
-This script is not meant to be used in an actual working environment.
+This script is of course not meant to be used in an actual working environment, just a small fun project.
